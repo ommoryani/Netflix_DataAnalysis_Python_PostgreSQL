@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Data Analysis Using Python & PostgreSQL
+# Netflix Data Analysis: PostgreSQL + Python Project
 
 ![](https://github.com/ommoryani/Netflix_DataAnalysis_Python_PostgreSQL/blob/main/logo.png)
 
